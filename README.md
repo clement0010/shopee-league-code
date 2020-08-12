@@ -23,7 +23,7 @@
 
 - Challenge 1 Code (Score: 0.4/1.00000) - [access it here](<https://github.com/clement0010/shopee-league-code/tree/master/Order%20Brushing%20(Data%20Analytics)/Code>)
 - Challenge 2 Code (Score: 0.5722/1.00000) - [access it here](<https://github.com/clement0010/shopee-league-code/tree/master/Product%20Detection%20(Image%20Classification)/Code>)
-- Challenge 3 Code (Score: Nil/1.00000) - [access it here]()
+- Challenge 3 Code (Score: Nil/1.00000) - [access it here](https://github.com/clement0010/shopee-league-code/tree/master/Product%20Translation%20(NLP)/Code)
 - Challenge 4 Code (Score: 0.42085/1.00000) - [access it here](<https://github.com/clement0010/shopee-league-code/tree/master/Title%20Translation%20(NLP)/Code>)
 - Challenge 5 Code (Score: 0.58833/1.00000) - [access it here](<https://github.com/clement0010/shopee-league-code/tree/master/Logistics%20(Data%20Analytics)/Code>)
 - Challenge 6 Code (Score: 0.50758/1.00000) - [access it here](<https://github.com/clement0010/shopee-league-code/tree/master/Marketing%20Analysis%20(Binary%20Classification)/Code>)
